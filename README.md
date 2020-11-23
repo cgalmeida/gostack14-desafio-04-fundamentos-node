@@ -1,7 +1,7 @@
 
-# :rocket: Desafio 05 GoSatack 14 - "Fundamentos de Node" - Rocketseat
+# :rocket: GoSatack 14: Desafio 05 - "Fundamentos de Node" 
 
-Desafio feito durante o nivel 02 do GoSatck 14 da Rocketseat. 
+Desafio feito durante o nivel 02 do GoSatck 14 da **[Rocketseat](https://rocketseat.com.br/)** 
 
 <h3 align="center">
   Descrição do Desafio
